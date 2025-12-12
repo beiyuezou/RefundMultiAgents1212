@@ -1,0 +1,7 @@
+{
+  "name": "Refund Multi-Agents",
+  "description": "An accessible, AI-powered travel refund assistant helping users organize evidence, analyze policies, and generate appeal letters.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
